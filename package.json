@@ -1,0 +1,19 @@
+{
+  "name": "ride-scheduler",
+  "version": "1.0.0",
+  "description": "Automatically schedule rides so I don't have to think about things",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesleysmyth/ride-scheduler.git"
+  },
+  "author": "Wesley Smith",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesleysmyth/ride-scheduler/issues"
+  },
+  "homepage": "https://github.com/wesleysmyth/ride-scheduler#readme"
+}
